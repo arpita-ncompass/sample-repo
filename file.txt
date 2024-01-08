@@ -1,2 +1,3 @@
 Hello! I am using git
-This is second commit..
+This is second commit.
+This is third..
