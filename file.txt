@@ -1,1 +1,2 @@
-Hello! I am using git.
+Hello! I am using git
+This is second commit..
