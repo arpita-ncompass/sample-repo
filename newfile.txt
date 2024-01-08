@@ -1,4 +1,5 @@
 hello
 Git stores every single version of each file it tracks as a blob. Git identifies blobs by the hash of their content and keeps them in .git/objects. Any change to the file content will generate a completely new blob object.
 
-The easiest way to create an object is to add an object to the stage. What is in the stage will be part of the next commit. 
+The easiest way to create an object is to add an object to the stage. What is in the stage will be part of the next commit.
+this is an change. 
