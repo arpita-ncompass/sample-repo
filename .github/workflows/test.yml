@@ -5,7 +5,6 @@ jobs:
     check-bats-version:
       runs-on: ubuntu-latest
       steps:
-         - run: npm install -g bats
-         - run: bats -v
+         - run: echo "Hello workflows!"
 
 
